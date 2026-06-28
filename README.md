@@ -18,7 +18,7 @@ A silent auction program built with Python.
 ## How to run
 
 1. Clone the repository
-2. Run python Blind Auction.py
+2. Run `python Blind Auction.py`
 3. Enter each bidder's name and bid, repeat until all bids are in
 
 ## Built with
